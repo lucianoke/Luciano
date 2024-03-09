@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(26, 94, 85);
+}
+#hero_section{
+    height: 48vh;
+    display: flex;
+    background-color: antiquewhite;
+}
+
+.sec1{
+    width: 48%;
+    height: 100%;
+}
+#fname{
+    font-size: 450%;
+}
+
+#name{
+    text-align: center;
+}
+#Morant{
+    width: 75%;
+    height: 100%;
+    border-radius:5%;
+}
+#about{
+    display:flex;
+}
+.work{
+    text-align: center;
+    margin: 3%;
+    padding: 3%;
+}
+#skills{
+    display: flex;
+}
+.set{
+    text-align: center;
+};
+#skills{
+    text-align: center;
+}
+#ContactMe{
+    margin: auto;
+}
+form{
+border: 1px solid bisque;
+width: 50%;
+margin-left: 25%;
+padding: 2%;
+border-radius: 3% 3%;
+}
